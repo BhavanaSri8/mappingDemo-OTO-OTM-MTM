@@ -1,18 +1,36 @@
-# Mapping Demo Application
+# 🔗 Mapping Demo Application
 
-A Spring Boot application demonstrating various JPA entity relationship mappings (One-to-One, One-to-Many, Many-to-Many) with practical examples.
+A Spring Boot application demonstrating various **JPA entity relationship mappings** including **One-to-One**, **One-to-Many**, and **Many-to-Many** relationships with practical examples.
 
-## Project Overview
+---
 
-This project showcases different types of database relationship mappings using Spring Boot and JPA. It includes models for Employees, Passports, People, Players, Projects, and Teams, demonstrating various association patterns.
+## 📌 Project Overview
 
-## Technology Stack
+This project showcases different types of database relationship mappings using **Spring Boot** and **Jakarta Persistence API (JPA)**.  
 
-- **Java Version**: 17
-- **Spring Boot**: 4.0.3
-- **Spring Data JPA**: For database operations and ORM
-- **MySQL**: Relational database
-- **Maven**: Build tool
+It includes real-world models such as:
+
+- Employee
+- Passport
+- Person
+- Player
+- Project
+- Team
+
+The application demonstrates how these entities are associated using proper ORM mapping strategies.
+
+---
+
+## 🚀 Technology Stack
+
+- **Java:** 17
+- **Spring Boot:** 4.0.3
+- **Spring Data JPA:** ORM & database operations
+- **MySQL:** Relational database
+- **Maven:** Build tool
+- **Jakarta Persistence API (JPA)**
+
+---
 
 ## Project Structure
 
@@ -145,4 +163,5 @@ Hartford Java Assignments - Practice Project
 ## License
 
 Educational use
+
 
